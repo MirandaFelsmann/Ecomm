@@ -1,0 +1,30 @@
+headphones: https://art.pixilart.com/sr270b0b3e866aws3.png
+
+
+                    <img class="productImg" src="/images/${product.image}">
+
+
+
+name
+username
+history of purchases—date, items, running total of purchases, credits
+
+#104940
+
+
+<% if (sortQuery.price === 1) { %>
+                    <button id="togglePriceSort" style="height: 36px">Sort $ Descend</button>
+                    <button id="toggleAlphabeticalSort" style="height: 36px">Sort A-Z</button>
+                <% } else if (sortQuery.price === -1) { %>
+                    <button id="togglePriceSort" style="height: 36px">Sort $ Ascend</button>
+                    <button id="toggleAlphabeticalSort" style="height: 36px">Sort A-Z</button>
+                <% } else if (sortQuery.name === 1) { %>
+                    <button id="togglePriceSort" style="height: 36px">Sort $ Descend</button>
+                    <button id="toggleAlphabeticalSort" style="height: 36px">Sort Z-A</button>
+                <% } else if (sortQuery.name === -1) { %>
+                    <button id="togglePriceSort" style="height: 36px">Sort $ Descend</button>
+                    <button id="toggleAlphabeticalSort" style="height: 36px">Sort A-Z</button>
+                <% } else { %>
+                    <button id="togglePriceSort" style="height: 36px">Sort $ Ascend</button>
+                    <button id="toggleAlphabeticalSort" style="height: 36px">Sort A-Z</button>
+                <% } %>

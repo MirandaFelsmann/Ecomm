@@ -1,0 +1,132 @@
+/*
+body {
+    font-family: Poppins;
+    background-color: #eee;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    color: #333; 
+}
+
+form {
+    width: 300px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+label {
+    display: block;
+    margin-bottom: 6px;
+    color: #333; 
+}
+
+input[type="text"],
+input[type="password"] {
+    width: calc(100% - 12px);
+    padding: 8px;
+    margin-bottom: 12px;
+    border: 1px solid #ccc; 
+    border-radius: 4px;
+}
+
+button[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    background-color: #76a68b; 
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button[type="submit"]:hover {
+    background-color: #447559; 
+}
+
+p {
+    text-align: center;
+    margin-top: 12px;
+    color: #333; 
+}
+
+a {
+    color: #447559; 
+}
+*/
+
+
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #eee;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Make sure body takes up the full viewport height */
+}
+
+.container {
+    text-align: center;
+}
+
+h1 {
+    color: #333; /* Dark text color */
+}
+
+form {
+    width: 300px;
+    background-color: #fff; /* White background for form */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Shadow effect */
+}
+
+label {
+    display: block;
+    margin-bottom: 6px;
+    color: #333; /* Dark text color */
+}
+
+input[type="text"],
+input[type="password"] {
+    width: calc(100% - 12px);
+    padding: 8px;
+    margin-bottom: 12px;
+    border: 1px solid #ccc; /* Light border */
+    border-radius: 4px;
+}
+
+button[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    background-color: #76a68b; 
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button[type="submit"]:hover {
+    background-color: #447559; 
+}
+
+p {
+    text-align: center;
+    margin-top: 12px;
+    color: #333; /* Dark text color */
+}
+
+a {
+    color: #447559; 
+}
+
+

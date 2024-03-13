@@ -1,0 +1,16 @@
+body {
+    margin: 0px;
+/*    background-color: #d3e1d0;*/
+/*    background-color: #dbe3dd;*/
+    background-color: #eee;
+    font-family: Poppins;
+}
+
+.profileHeader {
+    text-align: center;
+}
+
+.homeButton:hover {
+    background-color: transparent;
+    border: none;
+}

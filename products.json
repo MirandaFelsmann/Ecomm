@@ -1,0 +1,122 @@
+[
+  {
+      "name": "Headphones",
+      "description": "Sony's newest!",
+      "price": 57,
+      "availableStock": 5,
+      "image": "headphones.jpg",
+      "sales": []
+  },
+  {
+      "name": "Kokuyo Campus Notebook",
+      "description": "Not for those with large handwriting",
+      "price": 9,
+      "availableStock": 17,
+      "image": "campusnb.jpg",
+      "sales": []
+  },
+  {
+      "name": "Sarasa Pens",
+      "description": "Fine-tip for cramming your physics fractions into one line",
+      "price": 15,
+      "availableStock": 10,
+      "image": "pens.png",
+      "sales": []
+  },
+  {
+      "name": "12th grade books",
+      "description": "The weight of the books is a metaphor for the crushing weight of senior year",
+      "price": 42,
+      "availableStock": 7,
+      "image": "book.jpg",
+      "sales": []
+  },
+  {
+      "name": "Jesus Trucker Hat",
+      "description": "As a Jew I would 100% rock this",
+      "price": 16,
+      "availableStock": 3,
+      "image": "jesushat.jpg",
+      "sales": []
+  },
+  {
+      "name": "Swiss Alps",
+      "description": "Destination Switzerland——abandon your troubles!",
+      "price": 1000,
+      "availableStock": 1,
+      "image": "alps.jpg",
+      "sales": []
+  },
+  {
+      "name": "Mason Jar",
+      "description": "To make the corner of your pantry that it'll inevitably end up in look aesthetic",
+      "price": 19,
+      "availableStock": 10,
+      "image": "balljar.jpg",
+      "sales": []
+  },
+  {
+      "name": "Writing Desk",
+      "description": "Does a pretty desk make you more productive?",
+      "price": 157,
+      "availableStock": 2,
+      "image": "table.jpg",
+      "sales": []
+  },
+  {
+      "name": "Blue Light Glasses",
+      "description": "Take a screen break for the love of god",
+      "price": 36,
+      "availableStock": 7,
+      "image": "glasses.jpg",
+      "sales": []
+  },
+  {
+      "name": "Fossil Tachymeter Watch",
+      "description": "A modest piece to start your collection",
+      "price": 322,
+      "availableStock": 5,
+      "image": "watch.jpg",
+      "sales": []
+  },
+  {
+      "name": "Handful of Lemons",
+      "description": "They just look nice",
+      "price": 13,
+      "availableStock": 1,
+      "image": "citrus.jpg",
+      "sales": []
+  },
+  {
+      "name": "Balcony View",
+      "description": "English homework doesn't exist here",
+      "price": 570,
+      "availableStock": 2,
+      "image": "balcony.jpg",
+      "sales": []
+  },
+  {
+      "name": "Monarchs, Red Edition",
+      "description": "You won't ever use them but they sure look cool",
+      "price": 25,
+      "availableStock": 12,
+      "image": "redcards.jpg",
+      "sales": []
+  },
+  {
+      "name": "Work Tray",
+      "description": "A little bit of organization can't hurt",
+      "price": 23,
+      "availableStock": 20,
+      "image": "workbench.jpg",
+      "sales": []
+  },
+  {
+      "name": "Outdoor Climbing",
+      "description": "Some sun would do you good",
+      "price": 99,
+      "availableStock": 5,
+      "image": "climbing.jpg",
+      "sales": []
+  }
+]
